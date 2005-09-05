@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1344
+
+When edit files that belong to different projects with different tags option 
+settings at the same time, it's annoying to switch tags option manually.
+This plugin can switch tags option automatically according to the buffer's
+file full name.
